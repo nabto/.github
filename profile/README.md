@@ -1,4 +1,4 @@
-![Nabto Intro](https://github.com/nabto/.github/blob/master/images/nabto-banner.png)
+![Nabto Intro](https://github.com/nabto/.github/blob/master/images/nabto-banner.jpg)
 
 ## Try It Out
 
