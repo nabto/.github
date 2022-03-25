@@ -5,8 +5,8 @@ client applications to communicate directly with IoT Devices (local and remote)
 for unsurpassed interactive performance with strong security based on modern
 standards.
 
-You can try it for fraa at the [Nabto Cloud
+You can try it for free at the [Nabto Cloud
 Console](https://console.cloud.nabto.com), where you can administrate and manage
 your own IoT solution.
 
-Visit [](https://docs.nabto.com/developer.html) to learn more.
+Visit [our developer site](https://docs.nabto.com/developer.html) to learn more.
