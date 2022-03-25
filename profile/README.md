@@ -1,6 +1,6 @@
 ## Try It Out
 
-Nabto Edge is the latest generation Nabtocommunication platform. It allows
+Nabto Edge is the latest generation Nabto communication platform. It allows
 client applications to communicate directly with IoT Devices (local and remote)
 for unsurpassed interactive performance with strong security based on modern
 standards.
